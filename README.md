@@ -60,162 +60,72 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 MyEnumerable Module <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is an educational project to create a class MyList and a module MyEnumerable using [Ruby](https://www.ruby-lang.org/en/) programming language. The module MyEnumerable will implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 
 **[your_project__name]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+## Built With
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+- [x] Programming Language: Ruby
+- [x] Linter: [Rubocop](https://rubocop.org/)
+- [x] VS Code
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
+## Getting Started
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
+To get a local copy up and running follow these simple steps.
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+### Prerequisites
 
-<!-- Features -->
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Ruby.
 
-### Key Features <a name="key-features"></a>
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
+```
 
-> Describe between 1-3 key features of the application.
+Likewise for Ruby installation.
+```
+$ ruby --version && irb
+```
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+### Setup
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Clone the repository using the GitHub link provided below.
 
-<!-- LIVE DEMO -->
+### Install
 
-## 🚀 Live Demo <a name="live-demo"></a>
+In the terminal, go to your file directory and run this command.
 
-> Add a link to your deployed project.
+```
+$ git clone https://github.com/Bludidi/Enumerable.git
+```
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+### Usage
+
+Kindly modify the files as needed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## Authors
 
-> Describe how a new developer could make use of your project.
+👤 **Lusindiso Ntanjana**
 
-To get a local copy up and running, follow these steps.
+- GitHub: [@Lusindiso](https://github.com/Lusindiso)
+- Twitter: [@LusindisoNt](https://twitter.com/LusindisoNt)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lusindisontanjana/)
 
-### Prerequisites
+👤 **Brian Buntu Ludidi**
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Bludidi](https://github.com/Bludidi)
+- Twitter: [@BB_Ludidi](https://twitter.com/bb_ludidi)
+- LinkedIn: [Brian Ludidi](https://www.linkedin.com/in/brian-ludidi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -263,26 +173,10 @@ I would like to thank...
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
