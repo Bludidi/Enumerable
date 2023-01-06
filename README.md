@@ -66,144 +66,55 @@ After you're finished please remove all the comments and instructions!
 
 **[your_project__name]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+## Built With
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+- [x] Programming Language: Ruby
+- [x] Linter: [Rubocop](https://rubocop.org/)
+- [x] VS Code
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
+## Getting Started
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
+To get a local copy up and running follow these simple steps.
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+### Prerequisites
 
-<!-- Features -->
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Ruby.
 
-### Key Features <a name="key-features"></a>
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
+```
 
-> Describe between 1-3 key features of the application.
+Likewise for Ruby installation.
+```
+$ ruby --version && irb
+```
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+### Setup
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Clone the repository using the GitHub link provided below.
 
-<!-- LIVE DEMO -->
+### Install
 
-## 🚀 Live Demo <a name="live-demo"></a>
+In the terminal, go to your file directory and run this command.
 
-> Add a link to your deployed project.
+```
+$ git clone https://github.com/Bludidi/Enumerable.git
+```
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+### Usage
+
+Kindly modify the files as needed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 ## Authors
 
