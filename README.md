@@ -60,9 +60,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 MyEnumerable Module <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is an educational project to create a class MyList and a module MyEnumerable using [Ruby](https://www.ruby-lang.org/en/) programming language. The module MyEnumerable will implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 
 **[your_project__name]** is a...
 
@@ -205,17 +205,19 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+## Authors
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Lusindiso Ntanjana**
 
-👤 **Author2**
+- GitHub: [@Lusindiso](https://github.com/Lusindiso)
+- Twitter: [@LusindisoNt](https://twitter.com/LusindisoNt)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lusindisontanjana/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Brian Buntu Ludidi**
+
+- GitHub: [@Bludidi](https://github.com/Bludidi)
+- Twitter: [@BB_Ludidi](https://twitter.com/bb_ludidi)
+- LinkedIn: [Brian Ludidi](https://www.linkedin.com/in/brian-ludidi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
